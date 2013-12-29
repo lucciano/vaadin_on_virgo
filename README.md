@@ -2,7 +2,7 @@ vaadin_on_virgo
 ===============
 
 Example Web Bundle (Wab) that runs Vaadin on Virgo
-It's completeley eclipse-mavenized.
+It's completely m2eclipse-mavenized.
 
 Edit pom.xml and set your virgo pickup dir.
 run mvn dependency:copy-dependencies to deploy the vaadin deps to virgo pickup.
