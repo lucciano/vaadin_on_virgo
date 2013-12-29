@@ -141,7 +141,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<manifestLocation>src/main/resources/META-INF</manifestLocation>
+					<manifestLocation>src/main/webapp/META-INF</manifestLocation>
 					<instructions>
 						<Bundle-SymbolicName>${project.groupId}.${project.artifactId}</Bundle-SymbolicName>
 						<Bundle-Name>${project.name}</Bundle-Name>
