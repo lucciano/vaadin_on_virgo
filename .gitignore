@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+target/
+.classpath
+.project
+.settings
+.metadata
+Servers/
+src/main/resources/META-INF/MANIFEST.MF
+src/main/webapp/VAADIN/widgetsets
